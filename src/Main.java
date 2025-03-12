@@ -7,8 +7,6 @@ public class Main {
         Car car2 = new Car(5000);
 
         System.out.println(car1.toString());
-        //Cotxe.MARCA = "Transit";
-        //cotxe1.POTENCIA = 2500;
         Car.model = "Fiesta";
         System.out.println(car2.toString());
         System.out.println(car1.toString());
